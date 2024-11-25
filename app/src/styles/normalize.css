@@ -1,4 +1,4 @@
-*,
+/* *,
 ::before,
 ::after {
 	box-sizing: border-box;
@@ -73,7 +73,7 @@ body {
 	/**
 	Унифицированный интерлиньяж
  */
-	line-height: 1.5;
+	/* line-height: 1.5;
 }
 
 svg *[fill] {
@@ -96,4 +96,4 @@ svg * {
 		transition-duration: 0.01ms !important;
 		scroll-behavior: auto !important;
 	}
-}
+} */ */
