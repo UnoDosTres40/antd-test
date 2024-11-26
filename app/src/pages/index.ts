@@ -1,2 +1,3 @@
 export * from './RootLayout/RootLayout'
-export * from './Page/Page'
+export * from './LoginPage/LoginPage'
+export * from './RegPage/RegPage'
